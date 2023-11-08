@@ -1,0 +1,10 @@
+.numbersInputs{
+    background-color: rgba(5, 40, 199, 0.57);
+    border: 1px solid white;
+    color: white;
+    border-radius: 15px;
+}
+#convertTo{
+    background: transparent;
+    border: none;
+}
